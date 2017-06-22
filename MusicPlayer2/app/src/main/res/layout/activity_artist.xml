@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.hi.musicplayer.ArtistClickListener">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/artist"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="list of artists"
+            android:textAllCaps="true"
+            android:textColor="#b7eeec"
+            android:textSize="25sp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Armaan Malik"
+        android:textSize="25sp"
+        android:layout_marginTop="25dp"
+        android:textColor="#fde000"
+        android:layout_marginBottom="16dp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Neha Kakkar"
+        android:textSize="25sp"
+        android:textColor="#FFA07A"
+        android:layout_marginBottom="16dp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arijit Singh"
+        android:textSize="25sp"
+        android:textColor="#b9eeb7"
+        android:layout_marginBottom="16dp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Atif Aslam"
+        android:textSize="25sp"
+        android:textColor="#20B"
+        android:layout_marginBottom="16dp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Babbal Rai"
+        android:textSize="25sp"
+        android:textColor="#FAFAD2"
+        android:layout_marginBottom="16dp"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jassi Gill"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:layout_marginBottom="16dp"/>
+</LinearLayout>
+</RelativeLayout>
+</ScrollView>

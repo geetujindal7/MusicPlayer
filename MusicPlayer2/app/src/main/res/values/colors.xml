@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="heading_back">#303F9F</color>
+    <color name="catogaryA">#FD8E09</color>
+    <color name="catogaryB">#3F51B5</color>
+    <color name="catogaryC">#303F9F</color>
+    <color name="catogaryD">#FD8E09</color>
+</resources>

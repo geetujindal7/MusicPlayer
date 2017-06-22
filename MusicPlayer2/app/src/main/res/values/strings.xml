@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="title_activity_artist_click_listener">ArtistClickListener</string>
+</resources>
